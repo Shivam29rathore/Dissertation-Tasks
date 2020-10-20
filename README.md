@@ -1,6 +1,6 @@
 # Dissertation-Tasks
 
-Task  no 1 : Implementing Basic Neural Networks.
+Task  no 1 : Implementing Neural Networks.
 
 Task  no 2 : Understanding Different Classification techniques.
 
